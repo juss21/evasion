@@ -3,16 +3,22 @@ The goal of this project is to understand the methods of hackers who bypass anti
 
 ## Audit 
 ### [Audit Questions](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/evasion/audit)
-### [Audit Video]()
+### [Audit Video](https://youtu.be/T8oxhKJ62gM)
 
 - Is the student able to explain how the Anti-Viruses detect the viruses?
     - it scans programs and files as they enter your device and compares them to known viruses, or it scans programs already on your device, looking for any suspicious behavior.
 
 - Is the student able to explain clearly how he can bypass the Anti-Viruses?
-    - yes
+    - Adding 100MB of memory is enough to discourage any emulation AV out there.
+    - Most anti viruses scan files for a certain amount of time, so waiting for 100 seconds will bypass most AVs. 
+    - Doing a basic operation for a sufficient number of time. In this case we use a for loop to increment 100001 times a counter. This is enough to bypass AVs.
 
 - Is the student able to explain clearly how his program works?
-    - yes
+    - I take an executable file, 
+
+## Bonus
+
+![malexe]()
 
 ##
 ### Author: [Juss](https://01.kood.tech/git/juss)
