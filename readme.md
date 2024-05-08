@@ -20,10 +20,10 @@ The goal of this project is to understand the methods of hackers who bypass anti
 ## Bonus
 
 First I uploaded `mal-track.exe` from previous task to [Virustotal](https://www.virustotal.com/gui/home/upload). As you can see it's almost detected by every AV.   
-<img src="https://01.kood.tech/git/juss/evasion/raw/branch/master/images/malexe.png" width="1000" heigth="800"/>     
+<img src="https://01.kood.tech/git/juss/evasion/raw/branch/master/images/malexe.png" width="1000" heigth="400"/>     
 
 Then I uploaded my `encrypted_mal-track.exe` and it's only detected by only 6 AVs.   
-<img src="https://01.kood.tech/git/juss/evasion/raw/branch/master/images/encrypted_malexe.png" width="1000" heigth="800"/>     
+<img src="https://01.kood.tech/git/juss/evasion/raw/branch/master/images/encrypted_malexe.png" width="1000" heigth="400"/>     
 
 ##
 ### Author: [Juss](https://01.kood.tech/git/juss)
